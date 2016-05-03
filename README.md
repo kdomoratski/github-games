@@ -1,4 +1,4 @@
-New content.
+The content.
 
 ## Welcome to GitHub Games
 
